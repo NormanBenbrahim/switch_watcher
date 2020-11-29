@@ -1,0 +1,19 @@
+{
+  "name": "switch_watcher",
+  "version": "1.0.0",
+  "description": "Watches Nintendo Switch Canadian price on BestBuy, Amazon and Walmart twice a day, and sends an email if there's been a price change",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NormanBenbrahim/switch_watcher.git"
+  },
+  "author": "Norman Benbrahim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NormanBenbrahim/switch_watcher/issues"
+  },
+  "homepage": "https://github.com/NormanBenbrahim/switch_watcher#readme"
+}
