@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/NormanBenbrahim/switch_watcher/issues"
   },
-  "homepage": "https://github.com/NormanBenbrahim/switch_watcher#readme"
+  "homepage": "https://github.com/NormanBenbrahim/switch_watcher#readme",
+  "dependencies": {
+    "puppeteer": "^5.5.0"
+  }
 }
